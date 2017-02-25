@@ -10,6 +10,6 @@
   "author": "Christine Yi",
   "license": "ISC",
   "dependencies": {
-    "angular-masonry": "^0.16.0"
+
   }
 }
